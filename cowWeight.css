@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+section#cowWeight-mitter {
+    background: gray;
+    padding-top: 30px;
+    padding-bottom: 28px;
+    background-image: url(cowWeight-mitter/cover.jpeg);
+    background-size: cover;
+    background-position: bottom;
+}
+
+.cowMitter-ttl h1 {
+    /* display: inline; */
+    margin: 0 auto;
+    text-align: center;
+    color: #25ff09;
+}
+
+
+
+input#cow-input {
+    padding: 10px;
+    text-align: left;
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    border: 3px solid orange;
+    border-radius: 50px;
+    outline: none;
+}
+
+input#cow-input2 {
+    padding: 10px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    border: 3px solid orange;
+    border-radius: 50px;
+    outline: none;
+}
+
+button#cow-button {
+    padding: 5px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    color: rgb(2, 47, 245);
+    background: black;
+    border-radius: 10px;
+    outline: none;
+}
+
+.result-Part {
+    overflow: hidden;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.result-Part h1 {
+    font-size: 24px;
+    margin-top: 5px;
+    color: red;
+}
+div#body-weight {
+    background: rgb(33, 146, 11);
+    /* background: orange; */
+    display: inline-block;
+    /* width: 100%; */
+    /* height: 25px; */
+    /* padding: 20px 122px; */
+    overflow: hidden;
+    border: 4px solid orange;
+    width: 200px;
+    height: 29px;
+    color: white;
+    font-weight: bold;
+}
+
+div#gusto-weight {
+    background: rgb(33, 146, 11);
+    /* background: orange; */
+    display: inline-block;
+    /* width: 100%; */
+    /* height: 25px; */
+    /* padding: 20px 122px; */
+    overflow: hidden;
+    border: 4px solid orange;
+    width: 200px;
+    height: 29px;
+    color: white;
+    font-weight: bold;
+}
+
+div#gusterDam{
+    background: rgb(33, 146, 11);
+    /* background: orange; */
+    display: inline-block;
+    /* width: 100%; */
+    /* height: 25px; */
+    /* padding: 20px 122px; */
+    overflow: hidden;
+    border: 4px solid orange;
+    width: 200px;
+    height: 29px;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+.maker-name {
+    text-align: right;
+    margin: 12px 36px;
+}
